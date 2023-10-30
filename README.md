@@ -1,3 +1,4 @@
+<h1 align="center"> About Me <h1>
 <h3 align="center">I am looking for a rewarding position as a software quality assurance (SQA) engineer, where I can apply my knowledge and think about my career to grow as a software quality assurance engineer and work with them long term.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naimakanda&label=Profile%20views&color=0e75b6&style=flat" alt="naimakanda" /> </p>
