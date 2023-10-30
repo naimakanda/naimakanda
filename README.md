@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Mohammad Naim Akanda</h1>
 <h3 align="center">I am looking for a rewarding position as a software quality assurance (SQA) engineer, where I can apply my knowledge and think about my career to grow as a software quality assurance engineer and work with them long term.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naimakanda&label=Profile%20views&color=0e75b6&style=flat" alt="naimakanda" /> </p>
+
+- 🌱 I’m currently learning **Software Test Automation from Road To SDET.**
+
+- 📧 Email Me on **naimakanda.cse@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naimakanda&show_icons=true&locale=en&layout=compact" alt="naimakanda" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naimakanda&show_icons=true&locale=en" alt="naimakanda" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naimakanda&" alt="naimakanda" /></p>
